@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y07GVMsdVb0AvHjkX3RLpfjhpZt0L43ORnuggTs+0yg=",
+  "Hash": "Ezkt0rXZG62uMB2Pl9+iYTKdoOP28gF7R88LZmWcimU=",
   "Source": "Parcial2",
   "BasePath": "_content/Parcial2",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Parcial2\\wwwroot",
       "Source": "Parcial2",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "Pattern": "**"
     }
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\radzen.blazor\\4.7.13\\staticwebassets\\Radzen.Blazor.js"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Parcial2.styles.css",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Parcial2.styles.css",
       "SourceId": "Parcial2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "Parcial2.styles.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Parcial2.styles.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Parcial2.styles.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Parcial2.bundle.scp.css",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Parcial2.bundle.scp.css",
       "SourceId": "Parcial2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "Parcial2.bundle.scp.css",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Parcial2.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Parcial2.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\css\\site.css",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\favicon.ico",
       "SourceId": "Parcial2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\2parcial\\Parcial2_AP1_Henry\\Parcial2\\Parcial2\\wwwroot\\",
       "BasePath": "_content/Parcial2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

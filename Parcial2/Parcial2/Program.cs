@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;
 using Parcial2.Data;
 using Radzen;
+
 var builder = WebApplication.CreateBuilder(args);
+
 var ConStr = builder.Configuration.GetConnectionString("ConStr");
 
 builder.Services.AddDbContext<Contexto>(options => 
@@ -17,7 +19,13 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 
 builder.Services.AddScoped<ProductosBLL>();
+builder.Services.AddScoped<ProduccionBLL>();
+
+builder.Services.AddRazorPages();
+builder.Services.AddScoped<TooltipService>();
+builder.Services.AddScoped<ContextMenuService>();
 builder.Services.AddScoped<NotificationService>();
+builder.Services.AddScoped<DialogService>();
 
 
 var app = builder.Build();

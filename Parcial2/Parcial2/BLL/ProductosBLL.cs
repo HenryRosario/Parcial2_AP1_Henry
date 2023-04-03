@@ -11,11 +11,11 @@ public class ProductosBLL
 
     }
         public bool Existe(int productoId){
-            return _contexto.productos.Any(o => o.ProductoId == productoId);
+            return _contexto.Productos.Any(o => o.ProductoId == productoId);
         }
 
         private bool Insertar(Productos producto){
-            _contexto.productos.Add(producto);
+            _contexto.Productos.Add(producto);
             return _contexto.SaveChanges()> 0;
         }
 
@@ -37,17 +37,15 @@ public class ProductosBLL
         }
 
         public Productos? Buscar(int productoId){
-            return _contexto.productos
-                    .Where(o=> o.ProductoId== productoId)
+            return _contexto.Productos
+                    .Where(o => o.ProductoId == productoId)
                     .AsNoTracking()
                     .SingleOrDefault();
                     
         }
         public List<Productos> GetList(Expression<Func<Productos, bool>> Criterio){
-            return _contexto.productos
-                .AsNoTracking()
-                .Where(Criterio)
-                .ToList();
+            return _contexto.Productos
+                .AsNoTracking().Where(Criterio).ToList();
         }
 
     }

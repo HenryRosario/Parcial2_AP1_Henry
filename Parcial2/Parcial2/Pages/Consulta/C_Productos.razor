@@ -1,5 +1,6 @@
-@page "/C_Productos"
+@page "/C_Produccion"
 @inject ProductosBLL ProductosBLL
+@inject ProduccionBLL ProduccionBLL
 @inject NotificationService notificationService
 
 <EditForm Model="productos"> 
@@ -36,6 +37,7 @@
                             <td>@producto.Costo </td>
                             <td>@producto.Precio </td>
                             <td>@producto.Existencia </td>
+                            <td><a href="producto/@producto.ProductoId">Ver</a></td>
                         </tr>
             }
 

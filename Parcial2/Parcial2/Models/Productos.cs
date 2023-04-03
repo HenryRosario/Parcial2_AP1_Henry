@@ -1,13 +1,13 @@
 using System.ComponentModel.DataAnnotations;
 
 public class Productos
-
+ #nullable disable
 {
     [Key]
     public int ProductoId { get; set; }
     [Required(ErrorMessage = "La descripcion es requerida")]
 
-    public string? Descripcion { get; set; }
+    public string Descripcion { get; set; }
     [Required(ErrorMessage = "El Costo es requerida")]
     public decimal Costo { get; set; }
     [Required(ErrorMessage = "El precio es requerida")]
