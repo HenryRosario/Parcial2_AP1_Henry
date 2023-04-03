@@ -69,7 +69,7 @@
 <table class="table">
                         <thead>
                             <th>Producto</th>
-                            <th>Descripcion</th>
+                            <th>Descripción</th>
                             <th>Cantidad</th>
                             <th></th>
                         </thead>
@@ -238,8 +238,7 @@
     void EliminarDetalle(ProduccionDetalle detalle)
     {
         var detalleEncontado = produccion.ProduccionDetalle.Find(d => d.DetalleId == detalle.DetalleId);
-        ListaP = ProduccionBLL.GetList(c => true);
-        Lista = ProductosBLL.GetList(p => true);
+     
         if(detalleEncontado != null)
         {
             detalle = detalleEncontado;

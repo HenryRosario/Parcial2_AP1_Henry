@@ -124,14 +124,14 @@ public class ProduccionBLL
                 }
             }
             var Produccion = _contexto.Productos.SingleOrDefault(p => p.ProductoId == produccion.ProductoId);
-            if (produccion != null)
+            if (Produccion != null)
             {
                 Produccion.Existencia -= produccion.Cantidad;
                 _contexto.Entry(produccion).State = EntityState.Modified;
             }
-            _contexto.Entry(produccion).State = EntityState.Deleted;
+            _contexto.Entry(Produccion).State = EntityState.Deleted;
             paso = _contexto.SaveChanges() > 0;
-            _contexto.Entry(produccion).State = EntityState.Detached;
+            _contexto.Entry(Produccion).State = EntityState.Detached;
 
         }
         catch (Exception)
