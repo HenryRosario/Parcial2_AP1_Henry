@@ -234,15 +234,22 @@
         produccion.ProduccionDetalle.Add(detalle);
         detalle = new ProduccionDetalle();   
     }
-
     void EliminarDetalle(ProduccionDetalle detalle)
     {
         var detalleEncontado = produccion.ProduccionDetalle.Find(d => d.DetalleId == detalle.DetalleId);
      
         if(detalleEncontado != null)
-        {
+        {   
             detalle = detalleEncontado;
             produccion.ProduccionDetalle.Remove(detalle); 
+            ShowNotification(
+                new NotificationMessage
+                {
+                    Severity = NotificationSeverity.Error,
+                    Summary = "El producto fue elimininado"
+                });
+                return;
+
         }
     }
 
